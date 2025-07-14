@@ -40,5 +40,5 @@ Aquí documento y comparto mis **proyectos personales** y los **ejercicios prác
 ---
 
 📫 Puedes encontrarme en:
-- [LinkedIn]([https://www.linkedin.com/in/tu-nombre-usuario](https://www.linkedin.com/in/adrian-castillo-532387280/))
+- [LinkedIn] ((https://www.linkedin.com/in/adrian-castillo-532387280/))
 
